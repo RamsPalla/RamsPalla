@@ -1,16 +1,17 @@
-## Hi there 👋
+ Hey! Nice to see you. 😎
 
-<!--
-**RamsPalla/RamsPalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Rambabu 😁
 
-Here are some ideas to get you started:
+I have technical experience and interest in:
+- Deep Learning
+- Machine Learning
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me:
+- [LinkedIn](www.linkedin.com/in/rambabupalla)
+- [GitHub](https://github.com/RamsPalla)
+- [Twitter](https://twitter.com/@Rams_Palla)
+- [Instagram](https://www.instagram.com/rambabu.palla.85/)
