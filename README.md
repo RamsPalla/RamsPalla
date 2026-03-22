@@ -9,7 +9,7 @@ I have technical experience and interest in:
 - Natural Language Processing
 - Generative AI
 - Agentic AI
-- Retrieval Augmented Gneeration(RAG)
+- Retrieval-Augmented Gneeration(RAG)
 - Model Context Protocol(MCP)
 - Artificial Intelligence
 
