@@ -8,6 +8,9 @@ I have technical experience and interest in:
 - Computer Vision
 - Natural Language Processing
 - Generative AI
+- Agentic AI
+- Retrieval Augmented Gneeration(RAG)
+- Model Context Protocol(MCP)
 - Artificial Intelligence
 
 ## 📫 How to reach me:
